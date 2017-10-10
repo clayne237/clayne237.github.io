@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+**_A Sociologist in the World_** catalogues my social science research and writing since finishing grad school. I will also use the site to explore new research topics, methodologies, and socio-economic events as I build my skill-set. I'll likely focus on topics of professional interest to me: labor and employment; social, economic, and demographic changes in the world; and diving into data. But I might also detour into science fiction, history, or the odd pop culture reverie.
 
-You can use the [editor on GitHub](https://github.com/clayne237/clayne237.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clayne237/clayne237.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**About me:** I have a PhD in Sociology from the State University of New York at Albany. I've spent my post-grad school years working outside academia: a non-profit research organization, [a federal statistical agency] (https://census.gov/), [a consulting company] (https://www.summitllc.us/), and most recently in tech. My research passion is employment: labor markets, occupations, organization of work, you name it. But I also have a fascination with the Greek and Roman empires, due to my undergrad years at [St. John's College] (https://www.sjc.edu/).
