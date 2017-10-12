@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: An Example of Cluster Analysis for Economic Research
 tags: 
 - employment 
