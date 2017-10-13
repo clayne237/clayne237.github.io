@@ -11,7 +11,7 @@ _A Sociologist in the World_ catalogues my social science research and writing s
 {% for post in site.posts %}
 <div>
 <a href="{{ post.url }}"><img align="left" img src="{{ post.thumbnail }}">
-  <a href="{{ post.url }}"><font size = +1> {{ post.title }}</font></a>
+  <font size = +1><a href="{{ post.url }}"> {{ post.title }}</a></font>
   {{post.excerpt}}
 </div>
 {% endfor %}
