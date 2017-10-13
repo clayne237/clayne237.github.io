@@ -2,16 +2,8 @@
 layout: post
 title: An Example of Cluster Analysis for Economic Research
 author: China Layne
-day: 10.6.17
 thumbnail: "/assets/SCGraphicThumb.png"
-tags: 
-- employment 
-- occupations 
-- economics
-- clusteranalysis 
-- datareduction
-- dataanalytics
-- researchsnippets
+categories: {labor and employment, data analytics, research snippets]
 ---
 #### Author: China Layne
 ##### October 6, 2017
