@@ -2,7 +2,7 @@
 layout: post
 title: An Example of Cluster Analysis for Economic Research
 author: China Layne
-date: 10.6.17
+day: 10.6.17
 thumbnail: "/assets/SCGraphicThumb.png"
 tags: 
 - employment 
