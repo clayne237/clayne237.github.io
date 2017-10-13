@@ -12,6 +12,7 @@ _A Sociologist in the World_ catalogues my social science research and writing s
     <li>
       <a href="{{ post.url }}"><img src="{{ post.thumbnail }}">
       <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.date}} {{post.author}}</a>
       {{post.excerpt}}
     </li>
   {% endfor %}
