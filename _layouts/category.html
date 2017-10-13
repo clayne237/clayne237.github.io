@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% for post in site.categories[page.category] %}
+{% for post in site.category[page.category] %}
 <div>
 <a href="{{ post.url }}"><img src="{{ post.thumbnail }}" >  
 <a href="{{ post.url | absolute_url }}">
