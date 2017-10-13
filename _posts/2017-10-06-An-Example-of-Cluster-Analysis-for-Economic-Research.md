@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Example of Cluster Analysis for Economic Research
-thumbnail: "/assets/CSGraphic.PNG"
+thumbnail: "/assets/CSGraphicThumb.png"
 tags: 
 - employment 
 - occupations 
