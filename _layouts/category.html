@@ -1,13 +1,8 @@
 ---
 layout: page
+title: Categories
 ---
 
-{% for post in site.category[page.category] %}
-<div>
-<a href="{{ post.url }}"><img src="{{ post.thumbnail }}" >  
-<a href="{{ post.url | absolute_url }}">
-{{ post.title }}
-</a>
-{{post.excerpt}}
-</div>      
+{% for post in site.categories.labor_and_employment %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
