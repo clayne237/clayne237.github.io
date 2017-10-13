@@ -13,6 +13,7 @@ tags:
 - dataanalytics
 - researchsnippets
 ---
+#### By China Layne       10.06.2017
 Many types of important economic and sociological research include occupation as a predictor or control variable. However, the commonly used Census occupational classification has too many detailed occupations to include as individual predictors in most models. To resolve this issue, I used [cluster analysis](https://datastudio.google.com/open/0BwxrLDRuZ_WxUjFMMXZlMXQyM2s) to reduce the 483 detailed Census occupation codes used in [IPUMS CPS](https://cps.ipums.org/cps/index.shtml) into a smaller set of occupational categories that can be more useful in economic research.
 
 ![Supplemental Classification Grapic]({{ "/assets/SCGraphic.PNG"}})
