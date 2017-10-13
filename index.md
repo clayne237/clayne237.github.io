@@ -8,12 +8,12 @@ _A Sociologist in the World_ catalogues my social science research and writing s
 
 ## Recent Posts
 
-  {% for post in site.posts %}
-    <div>
-      <a href="{{ post.url }}"><img src="{{ post.thumbnail }}" >
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{post.excerpt}}
-    </div>
-  {% endfor %}
+{% for post in site.posts %}
+<div>
+<a href="{{ post.url }}"><img src="{{ post.thumbnail }}" >
+<a href="{{ post.url }}">{{ post.title }}</a>
+{{post.excerpt}}
+</div>
+{% endfor %}
 
 
