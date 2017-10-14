@@ -8,7 +8,7 @@ categories: [employmentresearch, dataanalytics, researchsnippets]
 I recently created a [dashboard](https://datastudio.google.com/open/0BwxrLDRuZ_WxaC1xMlNGd2xvd2c) to examine and illustrate minimum wage and overtime pay enforcement across states. Using this dashboard, I found a number of points of interest about wage enforcement in the U.S.
 
 <h5 style="color:#00008B;" align="center">Dashboard of Minimum Wage and Overtime Pay Violations by State</h5>
-<img align="center" src="/assets/MWDashboard.PNG">
+<img align="center" src="/assets/MWDashboard.png">
 
 <h5 style="color:#00008B;" align="center">Minimum Wage and Overtime Pay Violations 2000 to 2015</h5>
 <img align="right" src="/assets/MWTrend.PNG">From 2005 to 2015, the number of investigations conducted nationwide by the [Wage and Hour Division (WHD)](https://www.dol.gov/whd/) decreased 20% from 20,825 to 16,612. However, during the same time period, the number of wage violations found during investigations increased slightly, from 533 to 542. These trends suggest WHD investigators have become more effective at uncovering wage violations.
