@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Garbage In - Garbage Out: Improving Administrative Data Quality for Research
+title: Avoiding Garbage In-Garbage Out: Improving Administrative Data Quality for Research
 author: China Layne
 thumbnail: "/assets/GIGOThumb.png"
 categories: [admininistrativedata, presentation]
@@ -8,12 +8,12 @@ categories: [admininistrativedata, presentation]
 In June, I presented the webinar, [“Improving Administrative Data Quality for Research and Analysis”](https://github.com/clayne237/chinalayne.us/blob/master/Publications/2017%20Improving%20Admin%20Data/APDU%202017%20admin%20data%20quality%20webinar%206.21.17.pdf), for members of the Association of Public Data Users (APDU). [APDU](http://apdu.org/) is a national network that provides a venue to promote education, share news, and advocate on behalf of public data users.
 
 <h5 style="color:#00008B;" align="left">In Research, Garbage In - Garbage Out</h5>
-<img align="left" src="/assets/GIGO.png">The webinar served as a primer to help smaller organizations begin to use their data for research. Participants were given the tools to transform their administrative data into “research-ready” datasets.
+<img align="left" src="/assets/GIGO.jpg">The webinar served as a primer to help smaller organizations begin to use their data for research. Participants were given the tools to transform their administrative data into “research-ready” datasets.
 
 I first reviewed seven major issues for administrative data quality and discussed how these issues can affect research and analysis. For instance, issues with incorrect value formats, unit of analysis, and duplicate records can make the data difficult to use. Invalid or inconsistent values lead to inaccurate analysis results. Missing or outlier values can produce inaccurate and biased analysis results. All these issues make the data less useful for research.
 
 <h5 style="color:#00008B;" align="center">Seven Common Data Quality Issues</h5>
-<img align="center" src="/assets/DQIssues.png">
+<img align="center" src="/assets/DQIssues.PNG">
 
 Next, I presented concrete strategies for reviewing the data to identify each of these quality issues. I also discussed several tips to make the data review process easier, faster, and easy to replicate. Most importantly among these tips are: (1) reviewing every variable in the data set, whether you expect problems or not, and (2) relying on data documentation to understand how the data should look.
 
