@@ -7,7 +7,7 @@ categories: [employmentresearch, dataanalytics, researchsnippets]
 ---
 Many types of important economic and sociological research include occupation as a predictor or control variable. However, the commonly used Census occupational classification has too many detailed occupations to include as individual predictors in most models. To resolve this issue, I used [cluster analysis](https://datastudio.google.com/open/0BwxrLDRuZ_WxUjFMMXZlMXQyM2s) to reduce the 483 detailed Census occupation codes used in [IPUMS CPS](https://cps.ipums.org/cps/index.shtml) into a smaller set of occupational categories that can be more useful in economic research.
 
-<h5 style="color=#00008B;" align="center">For Supplemental Classification Categories: Pct. Full-time, Full-year Work by Mean Earnings</h5>
+<h5 style="color:#00008B;" align="center">For Supplemental Classification Categories: Pct. Full-time, Full-year Work by Mean Earnings</h5>
 <img align="center" src="/assets/SCGraphic.PNG">
 
 Researchers generally include occupation in analyses using 12 major occupational groups. This classification groups detailed occupations primarily according to common job families, such as business and finance occupations or office administration occupations. Alternatively, I wanted to use a classification that groups detailed occupations based on the common employment experiences of workers in those occupations. My goal was to produce a Supplemental Classification that would provide clearer measures of the effect of occupation on different types of economic outcomes.
