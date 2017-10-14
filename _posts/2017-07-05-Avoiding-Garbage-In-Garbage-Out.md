@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Garbage In-Garbage Out: Improving Administrative Data Quality for Research
+title: Avoiding Garbage In Garbage Out
 author: China Layne
 thumbnail: "/assets/GIGOThumb.png"
 categories: [admininistrativedata, presentation]
