@@ -12,7 +12,6 @@ In June, I presented the webinar, [“Improving Administrative Data Quality for 
 
 I first reviewed seven major issues for administrative data quality and discussed how these issues can affect research and analysis. For instance, issues with incorrect value formats, unit of analysis, and duplicate records can make the data difficult to use. Invalid or inconsistent values lead to inaccurate analysis results. Missing or outlier values can produce inaccurate and biased analysis results. All these issues make the data less useful for research.
 
-<h5 style="color:#00008B;" align="center">Seven Common Data Quality Issues</h5>
 <img align="center" src="/assets/DQIssues.PNG">
 
 Next, I presented concrete strategies for reviewing the data to identify each of these quality issues. I also discussed several tips to make the data review process easier, faster, and easy to replicate. Most importantly among these tips are: (1) reviewing every variable in the data set, whether you expect problems or not, and (2) relying on data documentation to understand how the data should look.
