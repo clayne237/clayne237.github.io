@@ -3,7 +3,7 @@ layout: post
 title: Guaranteed Basic Income and Expanded Wage Insurance
 author: China Layne
 thumbnail: "/assets/MoneyThumb.jpg"
-tags: [EmploymentResearch, Essay]
+tags: [Employment, Economics, Essay]
 ---
 In the last couple of years, [Guaranteed Basic Income (GBI)](http://basicincome.org/) has been gaining traction among researchers and advocacy groups concerned about economic inequality and poverty. In its basic form, GBI involves giving every adult citizen of a country an amount of money that could cover all of the person’s basic needs, regardless of whether the person is employed. Advocates for GBI propose that the program would replace most other safety net spending for the poor such as Temporary Assistance for Needy Families (TANF) and Supplemental Nutrition Assistance Program (SNAP). In recent years, GBI has been piloted in a variety of developing countries such as Namibia, Brazil, and India as well in developed countries such as Germany, Canada, and the United States.
 
