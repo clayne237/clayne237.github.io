@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pathways to Entrepreneurship: Push or Choice?
+title: Pathways to Entrepreneurship: Push or Choice
 author: China Layne
 thumbnail: "/assets/PathwaysThumb.png"
 tags: [EmploymentResearch, StatisticalModels, CurrentPopulationSurvey]
