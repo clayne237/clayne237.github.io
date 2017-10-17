@@ -5,10 +5,10 @@ author: China Layne
 thumbnail: "/assets/halloweenThumb.png"
 tags: [PopCulture]
 ---
-<img align="left" src="/assets/halloween.png"> I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Unfortunately my husband dislikes scary movies, so as Halloween approaches, I'll have to indulge in them on my own. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway, just a few gems that you might want to check out in the nights leading up to Halloween.
+I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Unfortunately my husband dislikes scary movies, so as Halloween approaches, I'll have to indulge in them on my own. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway, just a few gems that you might want to check out in the nights leading up to Halloween.
 
 <h5 style="color:#00008B;" align="left">Straightforward Genre, Well-Done</h5>
-[The Crazies](http://www.imdb.com/title/tt0455407/) (2010) _The Crazies_ is in the same vein of "societal collapse" as most modern zombie movies (although the "zombies" here are people exposed to a toxin). But there's enough focus on the main characters and town pre-collapse to make the town's breakdown actually affecting.
+<img align="left" src="/assets/halloween.png"> [The Crazies](http://www.imdb.com/title/tt0455407/) (2010) _The Crazies_ is in the same vein of "societal collapse" as most modern zombie movies (although the "zombies" here are people exposed to a toxin). But there's enough focus on the main characters and town pre-collapse to make the town's breakdown actually affecting.
 [Hush](http://www.imdb.com/title/tt5022702/) (2016) I'm not usually a fan of home invasion movies, but _Hush_ was focused and well-structured with an engaging protagonist. There is also a scene between the villian and a would-be rescuer that was really interesting for illustrating the perils of how a lot of us automatically respond to authority figures.
 
 <h5 style="color:#00008B;" align="left">Horror with a Side of Comedy</h5>
