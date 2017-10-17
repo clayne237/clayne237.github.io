@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: A Sociologist in the World
 description: Research and thoughts from a sociologist working in the 'real world'
+google_analytics: 'UA-00000000-1'
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
