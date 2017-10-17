@@ -2,10 +2,10 @@
 layout: post
 title: Confessions of a Horror Movie Junkie
 author: China Layne
-thumbnail: "/assets/HalloweenThumb.png"
+thumbnail: "/assets/halloweenThumb.png"
 tags: [PopCulture]
 ---
-<img align="left" img src="/assets/Halloween.png"> I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Unfortunately my husband dislikes scary movies, so as Halloween approaches, I'll have to indulge in them on my own. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway, just a few gems that you might want to check out in the nights leading up to Halloween.
+<img align="left" src="/assets/halloween.png"> I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Unfortunately my husband dislikes scary movies, so as Halloween approaches, I'll have to indulge in them on my own. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway, just a few gems that you might want to check out in the nights leading up to Halloween.
 
 <h5 style="color:#00008B;" align="left">Straightforward Genre, Well-Done</h5>
 [The Crazies](http://www.imdb.com/title/tt0455407/) (2010) _The Crazies_ is in the same vein of "societal collapse" as most modern zombie movies (although the "zombies" here are people exposed to a toxin). But there's enough focus on the main characters and town pre-collapse to make the town's breakdown actually affecting.
