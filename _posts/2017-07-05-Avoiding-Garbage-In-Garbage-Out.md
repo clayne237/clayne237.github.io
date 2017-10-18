@@ -3,7 +3,7 @@ layout: post
 title: Avoiding Garbage In Garbage Out
 author: China Layne
 thumbnail: "/assets/GIGOThumb.png"
-tags: [Admininistrative Data, Presentation]
+tags: [Admininistrative Data, Presentation, Summit Repost]
 ---
 In June, I presented the webinar, [“Improving Administrative Data Quality for Research and Analysis”](https://github.com/clayne237/chinalayne.us/blob/master/Publications/2017%20Improving%20Admin%20Data/APDU%202017%20admin%20data%20quality%20webinar%206.21.17.pdf), for members of the Association of Public Data Users (APDU). [APDU](http://apdu.org/) is a national network that provides a venue to promote education, share news, and advocate on behalf of public data users.
 
