@@ -3,7 +3,7 @@ layout: post
 title: Pathways to Entrepreneurship
 author: China Layne
 thumbnail: "/assets/PathwaysThumb.png"
-tags: [Employment Research, Statistical Models, Current Population Survey]
+tags: [Employment Research, Statistical Models, Current Population Survey, Summit Repost]
 ---
 On June 2nd, I presented my study, [“Pathways to Entrepreneurship: Personal and City Predictors of Self-Employment"](https://github.com/clayne237/chinalayne.us/blob/master/Publications/2017%20LERA%20Pathways%20to%20Entrepreneurship/LERA%202017%20poster%20final.pdf), at the [2017 Annual Conference of the Labor and Employment Relations Association](https://lera.memberclicks.net/69th-lera-anl-mtg). In May 2017, 10% of American workers were [self-employed](https://www.bls.gov/news.release/empsit.t09.htm). Self-employment can be in a non-incorporated (e.g., sole proprietorship) or incorporated business, with a formalized ownership and legal structure that confers certain liability and tax advantages as well as the ability to raise capital through [selling securities](https://www.entrepreneur.com/article/77730). Most self-employment is in non-incorporated businesses. In May 2017, 62% of self-employed workers had a [non-incorporated business](https://www.bls.gov/news.release/empsit.t09.htm).
 
