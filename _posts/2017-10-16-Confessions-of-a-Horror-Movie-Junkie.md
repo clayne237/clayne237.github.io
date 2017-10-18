@@ -3,9 +3,9 @@ layout: post
 title: Confessions of a Horror Movie Junkie
 author: China Layne
 thumbnail: "/assets/halloweenThumb.png"
-tags: [PopCulture]
+tags: [Pop Culture]
 ---
-I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway, just a few gems that you might want to check out in the nights leading up to Halloween.
+I can't deny it; I'm a life-long horror movie fan. Over the years, I've managed at least to upgrade from slasher flicks to more thoughtful horror movies and avoid the swamp of 'torture porn', but I just can't quit the genre. Following are some of the films that I've especially enjoyed. The list isn't meant to be definitive in anyway and obviously I'm not a film critic. So this post just recounts a few movie gems that you might want to check out in the nights leading up to Halloween.
 
 <h5>Straightforward Genre, Well-Done</h5>
 <img class="left" src="/assets/halloweenThumb.png"> [The Crazies](http://www.imdb.com/title/tt0455407/) (2010) is in the same vein of "societal collapse" as most modern zombie movies (although the "zombies" here are people exposed to a toxin). But there's enough focus on the main characters and town pre-collapse to make the town's breakdown actually affecting.
