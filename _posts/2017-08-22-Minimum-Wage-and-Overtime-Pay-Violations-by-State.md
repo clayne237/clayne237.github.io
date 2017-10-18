@@ -3,7 +3,7 @@ layout: post
 title: Minimum Wage and Overtime Pay Violations by State
 author: China Layne
 thumbnail: "/assets/MWTrendThumb.png"
-tags: [employmentresearch, dataanalytics, researchsnippets]
+tags: [Employment Research, Data Analytics, Research Snippets]
 ---
 I recently created a [dashboard](https://datastudio.google.com/open/0BwxrLDRuZ_WxaC1xMlNGd2xvd2c) to examine and illustrate minimum wage and overtime pay enforcement across states. Using this dashboard, I found a number of points of interest about wage enforcement in the U.S.
 
