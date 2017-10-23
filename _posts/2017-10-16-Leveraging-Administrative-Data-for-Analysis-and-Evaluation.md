@@ -2,7 +2,7 @@
 layout: post
 title: Leveraging Administrative Data for Analysis and Evaluation
 author: China Layne
-thumbnail: "/assets/ProgramCycleThumb.png"
+thumbnail: "/assets/DataThumb.jpg"
 tags: [Administrative Data, White Paper, APDU, Summit Repost]
 ---
 At this year’s [Association of Public Data User’s (APDU) conference](https://www.summitllc.us/blog/apdu.org), I chaired a panel for [Summit Consulting](https://www.summitllc.us/), [Data Integration for Improving Program Effectiveness](http://apdu.org/education/conference/2017-annual-conference/agenda-2017-annual-conference/), as a workshop for conference attendees. Anthony Curcio, a partner at Summit Consulting, talked with leaders from the [US Securities Exchange Commission](https://www.sec.gov/), the [US Department of Labor](https://www.dol.gov/), and [ByteCubed](http://bytecubed.com/) about how they use administrative data for research to improve federal agencies’ programs and policies. 
